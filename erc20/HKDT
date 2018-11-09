@@ -1,0 +1,14 @@
+{
+  "symbol": "HKDT",
+  "address": "HKDT",
+  "overview": "HKDT is a stable digital asset pegged to Hong Kong Dollar",
+  "website": "https://www.hkdt.org",
+  "email": "contact@hkdt.org",
+  "whitepaper": "By request",
+  "state": "STABLE",
+  "published_on": "2018/11/9",
+  "initial_price": "1 HKD = 1 HKDT",
+  "links": {
+    "github": "https://github.com/HKDToken",
+  }
+}
